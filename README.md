@@ -19,7 +19,7 @@ Actualmente estoy ampliando mis conocimientos en desarrollo web, aplicaciones m�
 - 🛠️ Experiencia en proyectos de desarrollo de software.
 - 🌎 Guatemala.
 
----
+
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -51,75 +51,11 @@ Actualmente estoy ampliando mis conocimientos en desarrollo web, aplicaciones m�
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📂 Mis proyectos
-
-### 🖥️ Sistema de Control de Activos
-
-Sistema web desarrollado para la administración y control de activos empresariales.
-
-**Tecnologías utilizadas:**
-- Django
-- Django REST Framework
-- React
-- Tailwind CSS
-- PostgreSQL
-
-**Funcionalidades:**
-- Gestión de usuarios.
-- Administración de clientes y sucursales.
-- Registro y control de activos.
-- Asignación de activos.
-- Gestión de mantenimientos.
-- Control de costos.
-- Alertas y notificaciones.
-- Generación de reportes.
-
-### 🚗 Aplicación de Mantenimiento Vehicular
-
-Aplicación móvil desarrollada para llevar el control de los mantenimientos de vehículos.
-
-**Tecnologías utilizadas:**
-- Flutter
-- Dart
-- Firebase
-
-**Funcionalidades:**
-- Registro de vehículos.
-- Historial de mantenimientos.
-- Recordatorios de servicios.
-- Gestión de usuarios.
-- Notificaciones.
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CharlieCif1503&show_icons=true&theme=tokyonight)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieCif1503&layout=compact&theme=tokyonight)
-
----
-
-## 📚 Actualmente estoy aprendiendo
-
-- Git y GitHub.
-- Control de versiones.
-- Despliegue de aplicaciones web.
-- Administración de servidores.
-- Buenas prácticas de programación.
-
----
 
 ## 🎯 Mis objetivos
 
 Seguir aprendiendo nuevas tecnologías y mejorar mis habilidades en el desarrollo de software.
-
 Adquirir experiencia en proyectos y desarrollar soluciones tecnológicas que ayuden a resolver problemas reales.
 
----
-
-### ⭐ Gracias por visitar mi perfil
 
 **CharlieCif1503**
